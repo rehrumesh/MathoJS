@@ -1,0 +1,19 @@
+{
+  "name": "mathojs",
+  "version": "0.0.1",
+  "description": "Simple JS Math library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehrumesh/MathoJS.git"
+  },
+  "author": "Rumesh Hapuarachchi <rehrumesh@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rehrumesh/MathoJS/issues"
+  },
+  "homepage": "https://github.com/rehrumesh/MathoJS#readme"
+}
