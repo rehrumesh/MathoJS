@@ -1,2 +1,5 @@
 # MathoJS
-Git demo project 
+
+Best math library out there for JS.
+
+LICENCE: MIT
